@@ -18,7 +18,7 @@ Will be updated soon! Happy new year 2026!
 ### 2025
 #### Projects and Experiments
 - [GitOps platform](https://github.com/MarcoLuw/bi-gitops) - A GitOps platform using ArgoCD, Terraform, and Kubernetes for automated infrastructure and application deployment.
-- [MLOps OSS Platform](https://gitlab.com/mlops-oss) - A end-to-end MLOps platform project using numerous open-source tools to facilitate machine learning lifecycle management.
+- [MLOps OSS Platform](https://github.com/MarcoLuw/mlops-pipeline) - A end-to-end MLOps platform project using numerous open-source tools to facilitate machine learning lifecycle management. (See more: [mlops-gitops repo](https://github.com/MarcoLuw/mlops-gitops)
 
 #### Setup Guides
 - [Jenkins and Gitlab CI/CD setup guide](./setup-catalog/jenkins-gitlab-monitoring/setup.md)
