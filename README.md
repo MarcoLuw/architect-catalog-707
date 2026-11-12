@@ -1,5 +1,5 @@
 # Knowledge Boosting
-An island for many wonderful things in my devops and cloud engineering journey. <br />
+An island of many wonderful things in my Platform engineering journey. <br />
 Here you can find various setup guides, architecture design thoughts, and best practices that I've gathered over my development journey. <br />
 
 ### Main sections in this repository:
@@ -12,9 +12,16 @@ Here you can find various setup guides, architecture design thoughts, and best p
 Since this is a growing repository, I plan to add more not only instructions and architecture design patterns, but also interesting insights and experiences in other areas. **Stay tuned for updates!**
 
 ## Contents
-### 2026
-Will be updated soon! Happy new year 2026!
+<h3 align="center">🎓 2026 · A New Chapter Begins</h3>
 
+<p align="center">
+  Pursuing an <strong>MSc in Data Science and Network Intelligence</strong><br/>
+  at <a href="https://www.ip-paris.fr/">Télécom SudParis, Institut Polytechnique de Paris</a>, France.
+</p>
+
+✨ Excited to learn, grow, and build things that matter. There would be more promising practice in AI-driven solutions when I come back. Happy learning!
+
+---
 ### 2025
 #### Projects and Experiments
 - [GitOps platform](https://github.com/MarcoLuw/bi-gitops) - A GitOps platform using ArgoCD, Terraform, and Kubernetes for automated infrastructure and application deployment.
@@ -37,7 +44,7 @@ Will be updated soon! Happy new year 2026!
 - [Python Notes](./general-catalog/python_work/)
 
 ## Author
-Hoang Anh Lu (Andre Lu) - DevOps and Software Engineer <br />
+Hoang Anh Lu - Data Scientist and Platform Engineer <br />
 Feel free to contact me via [Email](mailto:hoanganhnk2002@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hoanganh26/)
 
 ## Disclaimer
